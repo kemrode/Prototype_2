@@ -7,4 +7,4 @@ Unity Learn, exercice de jeu avec caméra vu du dessus.
 
 -> Exercice réalisé dans le cadre du parcours Unity Learn Junior Programer.
 
--> Lien : [label](https://play.unity.com/mg/other/02-animalfeed)
+-> Lien pour le futur AAA: [Animal Feed](https://play.unity.com/mg/other/02-animalfeed)
