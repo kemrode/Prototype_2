@@ -1,2 +1,10 @@
 # Prototype_2
-The game named Prototype 2 from Unity Learning program for developer
+
+Unity Learn, exercice de jeu avec caméra vu du dessus.
+
+-> Apparition aléatoire d'animaux qu'il faut nourrir avec des pizzas (miam).
+-> Les animaux peuvent venir de face et/ou de côté.
+
+-> Exercice réalisé dans le cadre du parcours Unity Learn Junior Programer.
+
+-> Lien : [label](https://play.unity.com/mg/other/02-animalfeed)
